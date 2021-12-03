@@ -1,32 +1,32 @@
-#This document has the purpose to list libraries that are usefull in .net development 
+# This document has the purpose to list libraries that are usefull in .net development 
 
-Mapper 
+### Mapper 
 - Automapper
 - Mapster
-Database ORM
+### Database ORM
 - Entity Framework 
 - Dapper
 - NHibernate
-Valdiation
+### Valdiation
 - FluentValidation
-Dependecy Injection Service
+### Dependecy Injection Service
 - Ninject
 - ServiceProvider
 - Unity
 - Autofac
-Template System
+### Template System
 - Nustache
 - Stubble
-Transient Fault Handling
+### Transient Fault Handling
 - Polly
-Mocking
+### Mocking
 - Moq
 - Automocker
-Rest Api Client 
+### Rest Api Client 
 - Refit
 - RestSharp
-Api Documentation 
+### Api Documentation 
 - Swashbuckle
-Logging
+### Logging
 - Serilog
 - NLog
